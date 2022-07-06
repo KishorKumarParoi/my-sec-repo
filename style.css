@@ -2,5 +2,9 @@ p{
    color: navy;
 }
 h3{
-    color: yellow;
+    color: orangered;
+}
+h1{
+    color: blue;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;
 }
